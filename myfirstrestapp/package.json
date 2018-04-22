@@ -1,0 +1,22 @@
+{
+  "name": "myfirstrestapp",
+  "version": "1.0.0",
+  "description": "This is my first restful application.",
+  "main": "myfirstrestapp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhAyRuL01/FirstRestfulApp.git"
+  },
+  "author": "Khayrul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhAyRuL01/FirstRestfulApp/issues"
+  },
+  "homepage": "https://github.com/KhAyRuL01/FirstRestfulApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
